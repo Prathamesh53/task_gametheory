@@ -1,0 +1,28 @@
+{
+  "name": "Book My Court",
+  "short_name": "Book my court",
+  "description": "An TIcket booking plateform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4285f4",
+  "author": "Deepak Suthar",
+  "keywords": [
+    "code",
+    "fun"
+  ],
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "id": "/", 
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "categories": [
+    "coding"
+  ],
+  "serviceworker": {
+    "src": "../sw.js",
+    "scope": "/",
+    "use_cache": true
+  }
+}
