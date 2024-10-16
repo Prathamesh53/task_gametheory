@@ -24,7 +24,7 @@ This project is a Sports Booking Application designed for a sports technology co
 - **Frontend**: React.js
 - **Backend**: Node.js with Express
 - **Database**: MongoDB (or any preferred database)
-- **Deployment**: Vercel (or any chosen cloud platform)
+- **Deployment**: Vercel (https://test-task-psi-five.vercel.app/)
 
 ### Installation and Setup
 1. **Clone the repository:**
